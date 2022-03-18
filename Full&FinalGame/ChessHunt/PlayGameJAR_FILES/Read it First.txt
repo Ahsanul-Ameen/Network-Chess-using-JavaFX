@@ -1,0 +1,46 @@
+If you want to play online game->
+1. first run the server
+2. run the Game, fill_up the boxes and LogIN
+3. when second player LogIn game starts..
+4. sad thing is the updates are printed in console
+   for online game.
+  
+step 01:
+   PlayGameJAR_FILES > ServerMain_jar > ChessHunt.jar
+   >  ChessHunt.jar > Start SerVer
+
+step 02:
+   PlayGameJAR_FILES > HuntNow_jar > ChessHunt.jar
+   > LogIn(after filling required field)
+______________________________________________________
+
+If you want to play the Offline game->
+1. there is no neccessity of running the server first
+2. simply run HuntNow and click on OfflineGame button
+3. a two player desktop game will start
+
+step one&only:
+PlayGameJAR_FILES > HuntNow_jar > ChessHunt.jar 
+> PlayOffline
+
+======================================================
+
+/*if you want to run it in Intellij or any IDEA ->
+1.in the server part you can run the ServerMain
+2.in the PlayGame part you can run the HuntNow
+(HuntNow cantains both the Online & Offline selection!)
+....*/
+
+I hope you will Enjoy the Offline vertion of the game
+mostly..Finally I'm sorry that my game has bugs in checking
+CheckMate properly...sometimes it may provide wrong infos
+these things will be updated one day(HoPeFully :))
+
+Don't think It's a perfect game...
+But I hope You'll enjoy it
+
+______________________Thank You___________________
+
+Ahsanul Ameen Sabit
+	&
+Mizanur Rahman Shuvo
